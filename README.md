@@ -1,3 +1,18 @@
+# NetMonitor
+
+NetMonitor is a comprehensive website monitoring tool built using TailwindCSS and Next.js. It provides real-time monitoring, alerting, and analytics to ensure your website is always up and running. The application is fully responsive, ensuring optimal performance across all devices.
+
+![Screenshot 2024-05-27 at 9 41 36 AM](https://github.com/TariqKichawele/NetMonitor/assets/105932024/8921a2ac-2331-4dcc-bf06-26d4bc52d45e)
+
+**Features**
+
+- Real-Time Monitoring: Keep track of your website’s uptime and performance in real-time.
+- Alerting: Get instant notifications via email or SMS if your website goes down.
+- Analytics: Access detailed reports on website performance and downtime.
+- Responsive Design: Fully responsive, ensuring seamless experience across desktop, tablet, and mobile devices.
+- Easy Setup: Quick and straightforward setup with Next.js and TailwindCSS.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
